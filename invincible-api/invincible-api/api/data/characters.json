@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Mark Grayson",
+    "alias": "Invincible",
+    "species": "Viltrumite-Human",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/88/Invincible_%28Mark_Grayson%29.png"
+  },
+  {
+    "id": 2,
+    "name": "Nolan Grayson",
+    "alias": "Omni-Man",
+    "species": "Viltrumite",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1b/Omni-Man.png"
+  },
+  {
+    "id": 3,
+    "name": "Samantha Eve Wilkins",
+    "alias": "Atom Eve",
+    "species": "Human",
+    "image": "https://static.wikia.nocookie.net/invincible/images/3/3e/Atom_Eve.png"
+  },
+  {
+    "id": 4,
+    "name": "Debbie Grayson",
+    "alias": "Debbie",
+    "species": "Human",
+    "image": "https://static.wikia.nocookie.net/invincible/images/5/5e/Debbie_Grayson.png"
+  },
+  {
+    "id": 5,
+    "name": "Allen the Alien",
+    "alias": "Allen",
+    "species": "Unopan",
+    "image": "https://static.wikia.nocookie.net/invincible/images/4/4e/Allen_the_Alien.png"
+  },
+  {
+    "id": 6,
+    "name": "Rex Sloan",
+    "alias": "Rex Splode",
+    "species": "Human",
+    "image": "https://static.wikia.nocookie.net/invincible/images/2/2d/Rex_Splode.png"
+  },
+  {
+    "id": 7,
+    "name": "Dupli-Kate",
+    "alias": "Kate Cha",
+    "species": "Human",
+    "image": "https://static.wikia.nocookie.net/invincible/images/3/3f/Dupli-Kate.png"
+  },
+  {
+    "id": 8,
+    "name": "Robot",
+    "alias": "Rudy Connors",
+    "species": "Artificial Intelligence",
+    "image": "https://static.wikia.nocookie.net/invincible/images/6/6a/Robot.png"
+  }
+]

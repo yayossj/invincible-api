@@ -1,0 +1,32 @@
+[
+  {
+    "season": 1,
+    "episode": 1,
+    "title": "It's About Time",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA2YjYxYzEtZTIxZi00YjYxLTk1YjUtYjYxYjYxYjYxYjYxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+  },
+  {
+    "season": 1,
+    "episode": 2,
+    "title": "Here Goes Nothing",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjYxYjYxYjYxYjYxYjYxYjYxYjYxYjYxYjYxYjYxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+  },
+  {
+    "season": 1,
+    "episode": 3,
+    "title": "Who You Calling Ugly?",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjM3YjYxYjYxYjYxYjYxYjYxYjYxYjYxYjYxYjYxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+  },
+  {
+    "season": 2,
+    "episode": 1,
+    "title": "A Lesson for Your Next Life",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmYxYjYxYjYxYjYxYjYxYjYxYjYxYjYxYjYxYjYxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+  },
+  {
+    "season": 2,
+    "episode": 2,
+    "title": "In About Six Hours I Lose My Virginity to a Fish",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjYxYjYxYjYxYjYxYjYxYjYxYjYxYjYxYjYxYjYxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+  }
+]
